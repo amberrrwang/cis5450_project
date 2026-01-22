@@ -3,7 +3,7 @@
 ## Project Overview
 
 This is a data science and analytics project that uses historical Steam application data to build and evaluate machine learning models that predict app prices.  
-This project aims to explore data preprocessing, feature engineering, model training and evaluation.
+This project aims to explore data preprocessing, feature engineering, model training and evaluation. The project was completed as part of the CIS 5450 (Big Data Analytics) course at the University of Pennsylvania. 
 
 ---
 
